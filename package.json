@@ -1,0 +1,22 @@
+{
+  "name": "curso-de-asincronismo-con-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josue3002/curso-de-asincronismo-con-javascript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "josue gullo josuegullo163@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josue3002/curso-de-asincronismo-con-javascript/issues"
+  },
+  "homepage": "https://github.com/josue3002/curso-de-asincronismo-con-javascript#readme"
+}
