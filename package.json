@@ -1,7 +1,7 @@
 {
-  "name": "curso-de-asincronismo-con-javascript",
+  "name": "v1",
   "version": "1.0.0",
-  "description": "",
+  "description": "sis",
   "main": "index.js",
   "scripts": {
     "callback": "node src/callback/challenge.js"
